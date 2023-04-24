@@ -1,3 +1,4 @@
+![Dashboard 1](https://user-images.githubusercontent.com/121448188/234097647-49c80f53-3a0f-493d-a4f6-f92b9a400438.png)
 # BikeStoreAnalysis-using-SQL-EXCEL-TABLEAU
 
 This is an Exploratory data analysis project involving 3 tools:
